@@ -1,5 +1,3 @@
-
-
 def mod(g,exponent, p):
     return pow(g,exponent,p)
 
